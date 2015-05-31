@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/ver_dialog_Medium_Text"
+            android:id="@+id/msg"
+            android:textSize="16sp" />
+</ScrollView>
+<!-- From: file:/D:/Android/project/StockSettings-6-kitkat-Coolpad8297/PerformanceControl-jb2/app/src/main/res/layout/ver_dialog.xml -->

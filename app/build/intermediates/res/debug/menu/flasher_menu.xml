@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/flash_kernel"
+        android:showAsAction="never"
+        android:title="@string/kernelbtn"/>
+    <item
+        android:id="@+id/flash_recovery"
+        android:showAsAction="never"
+        android:title="@string/recoverybtn"/>
+
+</menu><!-- From: file:/D:/Android/project/StockSettings-6-kitkat-Coolpad8297/PerformanceControl-jb2/app/src/main/res/menu/flasher_menu.xml -->

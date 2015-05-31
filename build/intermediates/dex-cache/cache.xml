@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\project\StockSettings-6-kitkat-Coolpad8297\PerformanceControl-jb2\app\libs\android-support-v13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="664aa273737f809e07c9f8b05a3868d80ad2565e">
+        <dex dex="D:\Android\project\StockSettings-6-kitkat-Coolpad8297\PerformanceControl-jb2\app\build\intermediates\pre-dexed\debug\android-support-v13-6447690854bc2137e867b07e02a05749dcdfd2dd.jar" />
+    </item>
+
+</items>

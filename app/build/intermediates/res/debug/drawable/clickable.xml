@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true"
+        android:drawable="@color/pc_hover" />
+</selector><!-- From: file:/D:/Android/project/StockSettings-6-kitkat-Coolpad8297/PerformanceControl-jb2/app/src/main/res/drawable/clickable.xml -->
